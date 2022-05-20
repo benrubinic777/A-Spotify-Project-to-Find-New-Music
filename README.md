@@ -9,7 +9,7 @@ Most of the libraries are standard, but a few will likely need to be downloaded
 Spotipy, the library used to work with the Spotify API, can be downloaded from: 
 https://spotipy.readthedocs.io/en/2.19.0/#api-reference
 
-or by using 
+or by using \n
 pip install spotipy
 
 

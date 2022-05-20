@@ -6,4 +6,23 @@ To view the created playlists, check out https://open.spotify.com/playlist/02vgo
 
 Most of the libraries are standard, but a few will likely need to be downloaded
 
-Spotipy, the library used to work with the Spotify API, can be downloaded from \nhttps://spotipy.readthedocs.io/en/2.19.0/#api-reference
+Spotipy, the library used to work with the Spotify API, can be downloaded from: 
+https://spotipy.readthedocs.io/en/2.19.0/#api-reference
+
+or by using 
+pip install spotipy
+
+
+To Get access to an authorization code, you will need to set up a (free) Spotify Developer account. 
+https://developer.spotify.com/dashboard/
+
+If you have any issues setting it up, here is a YouTube video that I found very helpful.
+https://www.youtube.com/watch?v=jSOrEmKUd_c&ab_channel=KalyanCodes
+
+
+For the Sweetviz visualizations, you'll need to install sweet viz from https://pypi.org/project/sweetviz/
+or by using pip install sweetviz
+
+
+If you have any questions or recommendations, please send me a message on LinkedIn at 
+https://www.linkedin.com/in/ben-rubinic-a17b8aa3/

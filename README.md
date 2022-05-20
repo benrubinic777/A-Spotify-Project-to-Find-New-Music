@@ -22,7 +22,7 @@ or by using pip install sweetviz
 
 To view the created playlists, check out https://open.spotify.com/playlist/02vgoWKLijGtiqD6hLwTgX and https://open.spotify.com/playlist/1c0PzPgIKSGCESe2IEtJNf
 
-To view the Plotly graphics, you may need to view the HTML versions of the code. Plotly images tend to not show up on Github. By creating static images, I should be able to get around this problem.
+To view the Plotly graphics, you may need to view the HTML versions of the code which is on my LinkedIn. Plotly images tend to not show up on Github. By creating static images, I should be able to get around this problem.
 
 If you have any questions or recommendations, please send me a message on LinkedIn at 
 https://www.linkedin.com/in/ben-rubinic-a17b8aa3/
